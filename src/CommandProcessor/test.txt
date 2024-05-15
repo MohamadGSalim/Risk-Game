@@ -1,0 +1,11 @@
+loadmap
+mapvalidate
+validatemap
+addplayer
+gamestart
+test
+test
+test
+replay
+loadmap
+validatemap

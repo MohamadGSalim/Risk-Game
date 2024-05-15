@@ -1,0 +1,26 @@
+[Map]
+author=Krishna
+image=territory_more_than_one_cont.bpm
+wrap=yes
+scroll=none
+warn=yes, territory1 has been
+
+[Continents]
+Continent1=11
+Continent2=9
+Continent3=3
+Continent4=5
+Continent5=2
+
+[Territories]
+1, 62, 379, Continent1, 3,2
+1, 62, 379, Continent2, 3,2
+2, 116, 399, Continent1, 1
+3, 158, 341, Continent2, 4,7,8,3,1
+4, 122, 281, Continent2, 3,5
+5, 167, 251, Continent3, 4,6,7
+6, 215, 221, Continent3, 10
+7, 211, 294, Continent4, 3,10,5
+8, 229, 365, Continent4, 3,9
+9, 286, 394, Continent5, 8
+10, 263, 322, Continent5, 7,8,6
