@@ -1,4 +1,8 @@
 # Risk Game
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/MohamadGSalim/Risk-Game/assets/65099738/49cf5710-7777-4f79-a996-64554a9703cb" alt="Screenshot 1" width="400">
+    <img src="https://github.com/MohamadGSalim/Risk-Game/assets/65099738/e4fef812-4aad-49f5-b212-dc70ce463edd" alt="Screenshot 2" width="300">
+</div>
 
 ## Overview
 Risk Game is a digital adaptation of the "Warzone" edition of the classic Risk board game in C++. This project involves implementing and enhancing game rules to provide an engaging gaming experience for players.
